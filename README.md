@@ -1,1 +1,0 @@
-# ipo-allotment-checker
